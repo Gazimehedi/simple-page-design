@@ -130,7 +130,9 @@ px      68    160    252    344    436    */
 	.ft-card-img {
 		text-align: center;
 	}
-}
+	.ft-content {
+   		text-align: center!important;
+	}
 
 
 /*	Retina media query.
@@ -168,6 +170,9 @@ px      68    160    252    344    436    */
 		}
 		.nav-bar i {
     			font-size: 2rem;
+		}
+		.ft-content {
+   			text-align: center!important;
 		}
 	
 	
